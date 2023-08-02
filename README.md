@@ -1,4 +1,8 @@
 # Trigonometry calculator
 
-Calculates values describing triangle  
-Run from command line to see results
+Calculates values describing a triangle
+
+## Use
+
+- Run from command line to see results
+- Result units are the same as input units, angle is in degrees
