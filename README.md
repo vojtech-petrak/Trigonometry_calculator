@@ -1,2 +1,4 @@
-# Trigonometry_calculator
-Calculates values describing  triangle
+# Trigonometry calculator
+
+Calculates values describing triangle  
+Run from command line to see results
