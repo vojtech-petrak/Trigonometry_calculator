@@ -1,6 +1,6 @@
 # Trigonometry calculator
 
-Calculates values describing a triangle
+Calculator of values describing a triangle
 
 ## Use
 
